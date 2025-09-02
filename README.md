@@ -37,6 +37,19 @@
         <sub><b>AI Dev: Burak Yılmaz</b></sub>
       </a>
     </td>
+        <td align="center">
+      <a href="https://www.linkedin.com/in/t%C3%BClin-%C5%9Fen/">  
+        <img src="https://media.licdn.com/dms/image/v2/D4D35AQFiQdax8kt8Og/profile-framedphoto-shrink_400_400/B4DZjWs_raHsB0-/0/1755948776456?e=1757419200&v=beta&t=mOKnVBS-DAddmY-QCexeOSVnV4SU6XFiFzrR7VfQkrI" width="200px;" alt="Burak Yılmaz"/>
+        <br />
+        <sub><b>İş Geliştirme: Tülin Şen</b></sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://www.linkedin.com/in/s%C3%BCmeyra-ertan-97803421a/">  
+        <img src="https://media.licdn.com/dms/image/v2/D4D03AQGGoibY4nw2Kw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1712147517885?e=1759968000&v=beta&t=0pLUrQFSqmqRuKlsTZUIsGlloQaaIkkci7NEYgg1gks" width="200px;" alt="Burak Yılmaz"/>
+        <br />
+        <sub><b>İş Geliştirme: Sümeyra Ertan</b></sub>
+      </a>
   </tr>
 </table> 
 
